@@ -1,5 +1,5 @@
-Clone or download the Zenith folder.  
-Open it in VSCode.  
-Open a new terminal and execute:  
-pip install -r .\requirements.txt  
-After completing the previous step, open main.py and click on the run button.
+1.Clone or download the Zenith folder.  
+2.Open it in VSCode.  
+3.Open a new terminal and execute:  
+4.pip install -r .\requirements.txt  
+5.After completing the previous step, open main.py and click on the run button.
